@@ -22,6 +22,5 @@ public class DateZeroSample {
 		
 		System.out.println(monthInNumberJava8);
 		System.out.println(dayInNumberJava8);
-//sample change from git
 	}
 }
